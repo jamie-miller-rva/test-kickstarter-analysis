@@ -16,6 +16,7 @@ Kickstarter funding analysis using Excel pivot tables and charts
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+  
   Analysis: there are several things I want to point out.
 
 - What can you conclude about the Outcomes based on Goals?
